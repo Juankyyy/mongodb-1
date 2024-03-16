@@ -24,7 +24,7 @@ db.users.insertMany([
         pais: "Colombia",
         salario: 500,
         edad: 25,
-        altura: 1.68,
+        altura: 168,
         peso: 200
     },
     {
@@ -36,7 +36,7 @@ db.users.insertMany([
         pais: "Colombia",
         salario: 2000,
         edad: 25,
-        altura: 1.66,
+        altura: 166,
         peso: 120
     },
     {
