@@ -1,3 +1,3 @@
 # MongoDB-1
 
-### Actividades realizadas en [Riwi](https://riwi.io/) con MongoDB
+### Actividad #1 realizada en [Riwi](https://riwi.io/) con MongoDB
